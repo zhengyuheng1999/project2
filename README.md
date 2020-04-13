@@ -1,3 +1,8 @@
 # Project 2
 
-Web Programming with Python and JavaScript
+聊天软件（纯英文）
+当用户首次进入该网站，被要求提供一个用户名，再次进入时可以直接进入或者改名。
+该软件有一个频道，用户发消息可以看见一条消息的时间和用户名。
+退出再次进入时，可看见上次遗留的历史信息。
+index.html为首页网页，chat.html为进入后的聊天界面。
+js代码直接被包含在两个html文件里。
